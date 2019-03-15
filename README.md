@@ -1,2 +1,2 @@
-# Hello World PHP Application for OpenShift demo
+# Sample PHP Application for OpenShift demo
 
