@@ -1,3 +1,3 @@
 <?php
-    echo "This is first application v2 on OpenShift from ".gethostname()
+    echo "This is first application v3 on OpenShift from ".gethostname()
 ?>
