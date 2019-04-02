@@ -1,3 +1,3 @@
 <?php
-    echo "This is the sample application on OpenShift from host  ".gethostname()
+    echo "This is the "latest code changes" in applicationn on OpenShift from host  ".gethostname()
 ?>
